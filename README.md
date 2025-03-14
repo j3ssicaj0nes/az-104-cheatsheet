@@ -45,20 +45,10 @@ This repository is organized into sections corresponding to the exam domains:
 3. Practice with the provided scripts to gain hands-on experience
 4. Supplement this information with official Microsoft documentation and labs
 
-## Contributing
-
-Contributions to improve this repository are welcome! Please feel free to submit pull requests or open issues to suggest improvements or corrections.
-
 ## Resources
 
 - [Official Microsoft AZ-104 Exam Page](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104)
 - [Microsoft Learn AZ-104 Learning Path](https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/)
 - [Azure Documentation](https://docs.microsoft.com/en-us/azure/)
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
 
 Good luck with your AZ-104 exam preparation!
